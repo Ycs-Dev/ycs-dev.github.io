@@ -1,3 +1,0 @@
-[submodule "Deps/SwiftZSTD"]
-	path = Deps/SwiftZSTD
-	url = https://github.com/Diatrus/SwiftZSTD.git
